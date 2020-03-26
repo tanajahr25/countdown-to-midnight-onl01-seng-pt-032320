@@ -1,4 +1,4 @@
 #write your code here
-x = 10
+x = 1
 
-while x 
+while x < 10
